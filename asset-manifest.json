@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PURE-TASTES/static/css/main.28375055.css",
+    "main.js": "/PURE-TASTES/static/js/main.56ca2282.js",
+    "index.html": "/PURE-TASTES/index.html",
+    "main.28375055.css.map": "/PURE-TASTES/static/css/main.28375055.css.map",
+    "main.56ca2282.js.map": "/PURE-TASTES/static/js/main.56ca2282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28375055.css",
+    "static/js/main.56ca2282.js"
+  ]
+}
