@@ -17,13 +17,13 @@ return(
 <AppProvider>
     <Hero/>  
 <Switch>
-<Route exact path="/">
+<Route exact path="/PURE-TASTES">
     <AllMenus>      
        <SpecialDishes/> 
        <FilteredDishes/>  
     </AllMenus>
 </Route>
-<Route path="/checkout">
+<Route path="/PURE-TASTES/checkout">
      <Checkout/>
 </Route>
 </Switch>
