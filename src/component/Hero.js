@@ -17,7 +17,7 @@ function Hero() {
       <div className="nav-right">
         <ul className='flex'>
         <li><Link to="/PURE-TASTES">Home</Link></li>
-        <li><Link to="checkout">checkout</Link> </li>  
+        <li><Link to="/PURE-TASTES/checkout">checkout</Link> </li>  
         </ul>
       </div>
     </div>
